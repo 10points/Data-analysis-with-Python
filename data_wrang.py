@@ -2,8 +2,7 @@ import pandas as pd
 import matplotlib.pylab as plt
 import numpy as np
 
-# This dataset was hosted on 
-# IBM Cloud object 
+# This dataset was hosted on IBM Cloud object 
 filename = "https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/auto.csv"
 
 # Creating of head list
